@@ -1,0 +1,17 @@
+com\ektha\insurance\entity\Driver.class
+com\ektha\insurance\controller\AddressController.class
+com\ektha\insurance\entity\Vehicle.class
+com\ektha\insurance\dao\QuoteDao.class
+com\ektha\insurance\service\QuoteGeneratorService.class
+com\ektha\insurance\service\RandomGenerator.class
+com\ektha\insurance\controller\vehicleController.class
+com\ektha\insurance\dao\DriverDao.class
+com\ektha\insurance\InsuranceApplication.class
+com\ektha\insurance\dao\VehicleDao.class
+com\ektha\insurance\entity\Address.class
+com\ektha\insurance\dao\AddressDao.class
+com\ektha\insurance\controller\DriverController.class
+com\ektha\insurance\repository\AddressRepository.class
+com\ektha\insurance\service\QuoteService.class
+com\ektha\insurance\entity\Quote.class
+com\ektha\insurance\dao\AddressDaoService.class
